@@ -1,4 +1,5 @@
 # BEM++ Examples
-This repository contains example scripts I have written for (http://bempp.org)[BEM++].
+This repository contains example scripts I have written for
+[BEM++](http://bempp.org).
 
 
